@@ -43,7 +43,7 @@
 1. :+1::+1:《springboot实战》汪云飞
 1. :+1::+1:《JavaScript DOM编程艺术 第2版》(Jeremy Keith等)
 1. :x: 《21天学通Java》
-1. :1: 《Spring Boot实战》丁雪丰译
+1. :+1: 《Spring Boot实战》丁雪丰译
 
 ## 杂类
 1. :+1:《如何有效阅读一本书：超实用笔记读书法》奥野宣之

@@ -48,6 +48,8 @@
 1. :+1::+1:《JavaScript DOM编程艺术 第2版》(Jeremy Keith等)
 1. :x: 《21天学通Java》
 1. :+1: 《Spring Boot实战》丁雪丰译
+1. :+1: 《Effective Java 3》英文原版
+
 
 
 ## 杂类

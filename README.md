@@ -66,7 +66,7 @@
 
 
 ## 心理学  
-1. :+1:《态度改变与社会影响》
+1. :+1:[《态度改变与社会影响》](https://github.com/VonJane/readList/tree/master/%E5%BF%83%E7%90%86%E5%AD%A6/%E6%80%81%E5%BA%A6%E6%94%B9%E5%8F%98%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%BD%B1%E5%93%8D)
 1. :+1: 《自控力》
 
 
